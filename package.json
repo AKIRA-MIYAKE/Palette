@@ -1,0 +1,22 @@
+{
+  "name": "Palette",
+  "version": "0.0.1",
+  "description": "Palette =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AKIRA-MIYAKE/Palette.git"
+  },
+  "author": "akira.aktk.miyake@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AKIRA-MIYAKE/Palette/issues"
+  },
+  "homepage": "https://github.com/AKIRA-MIYAKE/Palette",
+  "dependencies": {
+    "Colour": "git://github.com/AKIRA-MIYAKE/ColourJS.git"
+  }
+}
